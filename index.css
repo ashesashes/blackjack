@@ -1,0 +1,29 @@
+
+body {
+    background: url("images/table.jpeg");
+    background-size: cover;
+    text-align: center;
+    font-family: Blackjar;
+    color: white;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 48px;
+    color: goldenrod; 
+}
+
+p {
+    font-size: 28px;
+}
+
+button {
+    width: 150px; 
+    background-color: goldenrod; 
+    margin: 2px auto; 
+    padding: 10px 10px 5px 10px; 
+    border: none; 
+    border-radius: 5px; 
+    font-weight: 800;
+    color: #016f32;
+}
